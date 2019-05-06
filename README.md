@@ -21,11 +21,6 @@ This project allows you to use Vector to call a local version of the Google Visi
 `
 
 `
-Vector -- Vector-X5V9 -- 006003a8
-`
-`
-Account -- laurens97@outlook.com -- 31JUli1997
-`
 
 
 # environment variables
