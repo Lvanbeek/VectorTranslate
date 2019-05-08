@@ -114,3 +114,4 @@ dmypy.json
 .pyre/
 *.xml
 *.iml
+*.xml___jb_tmp___
